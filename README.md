@@ -1,4 +1,4 @@
-**Name** : Nikhil Raj
+**Name** : Nikhil Raj, Mohammad Arman
 **University/college**: Indian Institute of Technology, (BHU) Varanasi
 **Department** : Pharmaceutical Engineering and Technology (PHE)
 
